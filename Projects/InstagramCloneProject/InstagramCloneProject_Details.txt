@@ -1,0 +1,19 @@
+FrontEnd :
+	React
+	Redux
+	Redux Thunk (Thunk Middleware - For State Management)
+	Formik, Yup (For Form Validation)
+	Tailwind css
+	Chakra UI (For Components)
+	React ICON
+	
+BackEnd :
+	SpringBoot
+-------------------------------------------------------------------------------------
+Sidebar 
+Profile Page => User Details, reqUser post part, reqUser post card
+Home Page => story circle, post card, comment model, home right, create post model
+Story => story view, progress bar
+-------------------------------------------------------------------------------------
+left Alt+Shift+F => Prettier Format
+Ctrl+/ => Comment

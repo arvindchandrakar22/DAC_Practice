@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "InstagramAppApplication",
+            "request": "launch",
+            "mainClass": "com.insta.clone.InstagramAppApplication",
+            "projectName": "clone"
+        },
+        {
+            "type": "java",
+            "name": "InstagramAppApplication",
+            "request": "launch",
+            "mainClass": "com.insta.clone.InstagramAppApplication",
+            "projectName": "instagram-app"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-InstagramAppApplication<instagram-app>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.backend.instagram.instagramapp.InstagramAppApplication",
+            "projectName": "instagram-app",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
