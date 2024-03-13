@@ -31,6 +31,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-## ADD FILE WHICH YOU WANT TO IGNORE WHILE COMMITING ##
-application.properties
