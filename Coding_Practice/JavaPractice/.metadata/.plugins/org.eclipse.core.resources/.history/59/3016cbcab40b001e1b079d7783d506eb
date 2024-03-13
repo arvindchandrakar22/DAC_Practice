@@ -1,0 +1,15 @@
+package com.codePractice.hackerrank.mountblue;
+
+public class SuperReducedString {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String s = "aaabccddd";
+		char[] arr = s.toCharArray();
+		
+		System.out.println(arr);
+		
+	}
+
+}

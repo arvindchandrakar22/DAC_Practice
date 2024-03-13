@@ -1,0 +1,13 @@
+
+Ssquid:S1659"!Declare "sum" on a separate line.(Œ¶—ûıÿÿÿÿHõRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(…¢ßÚùÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+Rsquid:S1659" Declare "n2" on a separate line.(Œ¶—ûıÿÿÿÿHôRMINORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(§©ç–ûÿÿÿÿHöRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHóRMINORZ
+CODE_SMELL

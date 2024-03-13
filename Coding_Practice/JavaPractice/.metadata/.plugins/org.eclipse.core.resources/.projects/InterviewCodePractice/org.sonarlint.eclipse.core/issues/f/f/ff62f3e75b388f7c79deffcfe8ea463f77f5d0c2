@@ -1,0 +1,174 @@
+
+~squid:S3973)"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+~squid:S39737"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHæRCRITICALZ
+CODE_SMELL
+~squid:S3973T"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHçRCRITICALZ
+CODE_SMELL
+~squid:S3973b"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHèRCRITICALZ
+CODE_SMELL
+~squid:S3973{"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHéRCRITICALZ
+CODE_SMELL
+squid:S3973“"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿHêRCRITICALZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÙì˜úÿÿÿÿHëRMINORZ
+CODE_SMELL
+‡squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ñó¢ËùÿÿÿÿHìRCRITICALZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHíRMAJORZ
+CODE_SMELL
+e
+squid:S106*"9Replace this use of System.out or System.err by a logger.(×•œ²HîRMAJORZ
+CODE_SMELL
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHïRMAJORZ
+CODE_SMELL
+j
+squid:S1065"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHğRMAJORZ
+CODE_SMELL
+e
+squid:S1068"9Replace this use of System.out or System.err by a logger.(×•œ²HñRMAJORZ
+CODE_SMELL
+j
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHòRMAJORZ
+CODE_SMELL
+‡squid:S3776?"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(™Š³¡øÿÿÿÿHóRCRITICALZ
+CODE_SMELL
+j
+squid:S106R"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHôRMAJORZ
+CODE_SMELL
+e
+squid:S106U"9Replace this use of System.out or System.err by a logger.(×•œ²HõRMAJORZ
+CODE_SMELL
+j
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHöRMAJORZ
+CODE_SMELL
+j
+squid:S106`"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿH÷RMAJORZ
+CODE_SMELL
+e
+squid:S106c"9Replace this use of System.out or System.err by a logger.(×•œ²HøRMAJORZ
+CODE_SMELL
+j
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHùRMAJORZ
+CODE_SMELL
+j
+squid:S106y"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHúRMAJORZ
+CODE_SMELL
+e
+squid:S106|"9Replace this use of System.out or System.err by a logger.(×•œ²HûRMAJORZ
+CODE_SMELL
+j
+squid:S106~"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHüRMAJORZ
+CODE_SMELL
+f
+squid:S106‘"9Replace this use of System.out or System.err by a logger.(×•œ²HıRMAJORZ
+CODE_SMELL
+k
+squid:S106”"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHşRMAJORZ
+CODE_SMELL
+k
+squid:S106–"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+f
+squid:S106§"9Replace this use of System.out or System.err by a logger.(×•œ²H€RMAJORZ
+CODE_SMELL
+k
+squid:S106«"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+k
+squid:S106­"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+f
+squid:S106Á"9Replace this use of System.out or System.err by a logger.(×•œ²HƒRMAJORZ
+CODE_SMELL
+k
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿH„RMAJORZ
+CODE_SMELL
+k
+squid:S106É"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH…RMAJORZ
+CODE_SMELL
+k
+squid:S106Ú"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿH†RMAJORZ
+CODE_SMELL
+k
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH‡RMAJORZ
+CODE_SMELL
+f
+squid:S106î"9Replace this use of System.out or System.err by a logger.(Ù©È±HˆRMAJORZ
+CODE_SMELL
+k
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+f
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¹œıHŠRMAJORZ
+CODE_SMELL
+k
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(âã¶¶ıÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+k
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+f
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢˜˜¿HRMAJORZ
+CODE_SMELL
+f
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ú½ê¢HRMAJORZ
+CODE_SMELL
+k
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿHRMAJORZ
+CODE_SMELL
+k
+squid:S106¶"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿHRMAJORZ
+CODE_SMELL
+f
+squid:S106»"9Replace this use of System.out or System.err by a logger.(×•œ²H‘RMAJORZ
+CODE_SMELL
+k
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(ŞÒ—üÿÿÿÿH’RMAJORZ
+CODE_SMELL
+k
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿH“RMAJORZ
+CODE_SMELL
+k
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH”RMAJORZ
+CODE_SMELL
+k
+squid:S106æ"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿH•RMAJORZ
+CODE_SMELL
+k
+squid:S106è"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH–RMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethod?"2Remove this unused private "starPattern12" method.(™Š³¡øÿÿÿÿH—RMAJORZ
+CODE_SMELL
+msquid:UnusedPrivateMethodj"2Remove this unused private "starPattern11" method.(íúÆH˜RMAJORZ
+CODE_SMELL
+nsquid:UnusedPrivateMethod‚"2Remove this unused private "starPattern10" method.(ÄÖÌÊH™RMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethodš"1Remove this unused private "starPattern9" method.(®¬°ÿÿÿÿÿHšRMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethod²"1Remove this unused private "starPattern8" method.(€¾·âøÿÿÿÿH›RMAJORZ
+CODE_SMELL
+msquid:UnusedPrivateMethodÍ"1Remove this unused private "starPattern7" method.(£îø¿HœRMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethodá"1Remove this unused private "starPattern6" method.(´ŒîİÿÿÿÿÿHRMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethodô"1Remove this unused private "starPattern5" method.(ŞİˆøÿÿÿÿHRMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethod"1Remove this unused private "starPattern4" method.(‘²§‘úÿÿÿÿHŸRMAJORZ
+CODE_SMELL
+msquid:UnusedPrivateMethod¨"1Remove this unused private "starPattern3" method.(ÃéâÒH RMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethodÂ"1Remove this unused private "starPattern2" method.(„ƒ¡‘úÿÿÿÿH¡RMAJORZ
+CODE_SMELL
+rsquid:UnusedPrivateMethodÖ"1Remove this unused private "starPattern1" method.(¼‹ğóşÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İ¡ÛûÿÿÿÿH£RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÅ"<This block of commented-out lines of code should be removed.(Ü¿¤H¤RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine·"<This block of commented-out lines of code should be removed.(Ü¿¤H¥RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Ü¿¤H¦RMAJORZ
+CODE_SMELL

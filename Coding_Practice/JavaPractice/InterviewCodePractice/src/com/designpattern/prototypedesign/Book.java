@@ -1,0 +1,32 @@
+package com.designpattern.prototypedesign;
+
+public class Book {
+
+	private int bid; //book id
+	private String bname; //book name
+	
+	public int getBid() {
+		return bid;
+	}
+	public void setBid(int bid) {
+		this.bid = bid;
+	}
+	public String getBname() {
+		return bname;
+	}
+	public void setBname(String bname) {
+		this.bname = bname;
+	}
+	
+	@Override
+	public String toString() {
+		return "Book [bid=" + bid + ", bname=" + bname + "]";
+	}
+	
+	
+	
+	
+	
+	 
+	 
+}

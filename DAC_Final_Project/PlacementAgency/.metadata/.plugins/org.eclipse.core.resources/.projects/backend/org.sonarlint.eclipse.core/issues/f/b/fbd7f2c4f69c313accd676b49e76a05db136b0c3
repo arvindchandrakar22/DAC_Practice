@@ -1,0 +1,19 @@
+
+xsquid:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(±‰…®˙ˇˇˇˇHñRCRITICALZVULNERABILITY
+Üsquid:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÇßœHóRMINORZ
+CODE_SMELL
+Üsquid:S2293/"YReplace the type specification in this constructor call with the diamond operator ("<>").(øò±HòRMINORZ
+CODE_SMELL
+ssquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ìñÊ¥HôRCRITICALZVULNERABILITY
+Üsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÇßœHöRMINORZ
+CODE_SMELL
+âsquid:UselessImportCheck"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(á°âÿHõRMINORZ
+CODE_SMELL
+Üsquid:S2293!"YReplace the type specification in this constructor call with the diamond operator ("<>").(øò±HúRMINORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(©àµÔHùRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Û‡ˇ¥˝ˇˇˇˇHûRMAJORZ
+CODE_SMELL

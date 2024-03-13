@@ -1,0 +1,54 @@
+
+squid:S1192,"iDefine a constant instead of duplicating this literal "update controller function got input as " 4 times.(²õˆêüÿÿÿÿHíRCRITICALZ
+CODE_SMELL
+ssquid:S4684*"@Replace this persistent entity with a simple POJO or DTO object.(ÙËÖHîRCRITICALZVULNERABILITY
+j
+squid:S106,"9Replace this use of System.out or System.err by a logger.(²õˆêüÿÿÿÿHïRMAJORZ
+CODE_SMELL
+†squid:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¼éåHğRMINORZ
+CODE_SMELL
+‹squid:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ã¯ûÿÿÿÿHñRMINORZ
+CODE_SMELL
+j
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ü­ÍûÿÿÿÿHòRMAJORZ
+CODE_SMELL
+†squid:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¼éåHóRMINORZ
+CODE_SMELL
+‹squid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ã¯ûÿÿÿÿHôRMINORZ
+CODE_SMELL
+j
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ñ½ÄÌüÿÿÿÿHõRMAJORZ
+CODE_SMELL
+†squid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ä¡«HöRMINORZ
+CODE_SMELL
+‹squid:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜûÉ©úÿÿÿÿH÷RMINORZ
+CODE_SMELL
+†squid:S2293g"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹ä¡«HøRMINORZ
+CODE_SMELL
+‹squid:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜûÉ©úÿÿÿÿHùRMINORZ
+CODE_SMELL
+ssquid:S4684n"@Replace this persistent entity with a simple POJO or DTO object.(¿Œ®€HúRCRITICALZVULNERABILITY
+j
+squid:S106p"9Replace this use of System.out or System.err by a logger.(¡¾ò¦ûÿÿÿÿHûRMAJORZ
+CODE_SMELL
+†squid:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ¼éåHüRMINORZ
+CODE_SMELL
+‹squid:S2293w"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘Ã¯ûÿÿÿÿHıRMINORZ
+CODE_SMELL
+ssquid:S4684|"@Replace this persistent entity with a simple POJO or DTO object.(»ü¿ÀHşRCRITICALZVULNERABILITY
+]squid:S00108‚")Either remove or fill this block of code.(ÒÌâ–øÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(ŒŠ£ÂøÿÿÿÿH€RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(ø íÔHRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineY"<This block of commented-out lines of code should be removed.(äõæ£úÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(Ú°à¬HƒRMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ãü§‘H„RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLine”"<This block of commented-out lines of code should be removed.(ÈË½’H…RMAJORZ
+CODE_SMELL
+ysquid:CommentedOutCodeLineš"<This block of commented-out lines of code should be removed.(Ú°à¬H†RMAJORZ
+CODE_SMELL

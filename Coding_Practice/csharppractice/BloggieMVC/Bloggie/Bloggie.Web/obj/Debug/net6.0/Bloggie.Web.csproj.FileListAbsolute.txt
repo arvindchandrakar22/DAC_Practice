@@ -1,0 +1,130 @@
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\appsettings.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.staticwebassets.runtime.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.exe
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.deps.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.runtimeconfig.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.pdb
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Humanizer.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.AssemblyReference.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.AssemblyInfoInputs.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.AssemblyInfo.cs
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.RazorAssemblyInfo.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.RazorAssemblyInfo.cs
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bloggie.Web.props
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\bundle\Bloggie.Web.styles.css
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.CopyComplete
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\refint\Bloggie.Web.dll
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.pdb
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.genruntimeconfig.cache
+E:\DAC\Practice\Practice 1\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\ref\Bloggie.Web.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\appsettings.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.staticwebassets.runtime.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.exe
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.deps.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.runtimeconfig.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Bloggie.Web.pdb
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Humanizer.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.AssemblyReference.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.AssemblyInfoInputs.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.AssemblyInfo.cs
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.CoreCompileInputs.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.RazorAssemblyInfo.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.RazorAssemblyInfo.cs
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.Bloggie.Web.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Bloggie.Web.props
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Bloggie.Web.props
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Bloggie.Web.props
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.pack.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\bundle\Bloggie.Web.styles.css
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\scopedcss\projectbundle\Bloggie.Web.bundle.scp.css
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.csproj.CopyComplete
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\refint\Bloggie.Web.dll
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.pdb
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\Bloggie.Web.genruntimeconfig.cache
+E:\DAC\Practice\PracticeProjects\csharppractice\BloggieMVC\Bloggie\Bloggie.Web\obj\Debug\net6.0\ref\Bloggie.Web.dll

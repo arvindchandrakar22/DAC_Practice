@@ -1,0 +1,23 @@
+
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú°à¬H…RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(©­„ÆüÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+vsquid:S3358("DExtract this nested ternary operation into an independent statement.(Ú…Ø™þÿÿÿÿH‚RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒž˜“ûÿÿÿÿHþRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHýRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø®ø’H„RMAJORZ
+CODE_SMELL
+j
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ª”Í‡ùÿÿÿÿHƒRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒüÊVH€RMAJORZ
+CODE_SMELL
+vsquid:S3358("DExtract this nested ternary operation into an independent statement.(Ú…Ø™þÿÿÿÿHRMAJORZ
+CODE_SMELL

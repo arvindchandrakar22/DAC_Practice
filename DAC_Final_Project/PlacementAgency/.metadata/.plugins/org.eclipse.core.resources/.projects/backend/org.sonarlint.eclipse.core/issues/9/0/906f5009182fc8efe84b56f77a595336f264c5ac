@@ -1,0 +1,22 @@
+
+‹squid:UselessImportCheck
+"LRemove this unused import 'com.project.placementagency.dao.AdminRepository'.(İÒßéÿÿÿÿÿHRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßçªH‘RMAJORZ
+CODE_SMELL
+squid:UselessImportCheck"GRemove this unused import 'com.project.placementagency.model.Employer'.(—•—§HRMINORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ÀÑ”PH”RMAJORZ
+CODE_SMELL
+e
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ßçªH’RMAJORZ
+CODE_SMELL
+ƒsquid:UselessImportCheck"DRemove this unused import 'com.project.placementagency.model.Admin'.(Ò©æôıÿÿÿÿHRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(İè¤ïH•RMAJORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHRMINORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(É³íûH“RMAJORZ
+CODE_SMELL

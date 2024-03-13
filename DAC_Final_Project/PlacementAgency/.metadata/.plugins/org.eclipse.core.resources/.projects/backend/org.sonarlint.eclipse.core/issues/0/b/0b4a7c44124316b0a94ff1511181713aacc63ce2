@@ -1,0 +1,15 @@
+
+Œsquid:UselessImportCheck"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“HŸRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥¢ýÿÿÿÿH RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(çÀ¬ÅH¡RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(ÑÖëÒÿÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(ï¶‚áH£RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(€ÖÎ¹H¤RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(Ã¹Ž€þÿÿÿÿH¥RMAJORZ
+CODE_SMELL

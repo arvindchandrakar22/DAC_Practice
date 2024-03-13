@@ -1,0 +1,26 @@
+
+t$squid:AssignmentInSubExpressionCheck#".Extract the assignment out of this expression.(æ©‘‹HÒRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHÓRMINORZ
+CODE_SMELL
+j
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ğ”ÖñûÿÿÿÿHÔRMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒªï¬HÕRMAJORZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ßÜ¿şÿÿÿÿHÖRMAJORZ
+CODE_SMELL
+e
+squid:S106("9Replace this use of System.out or System.err by a logger.(ƒªï¬H×RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«ãäÔHØRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«³êæHÙRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬îÓıHÚRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÜüôìÿÿÿÿÿHÛRMAJORZ
+CODE_SMELL

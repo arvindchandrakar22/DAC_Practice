@@ -1,0 +1,13 @@
+
+wsquid:UselessImportCheck"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²ŽøÿÿÿÿH‡RMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck"?Remove this unused import 'javax.persistence.UniqueConstraint'.(ô¤ôõHˆRMINORZ
+CODE_SMELL
+jsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH‰RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(§Ÿÿ®üÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ÚÓãöøÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(èÅ®HŒRMAJORZ
+CODE_SMELL

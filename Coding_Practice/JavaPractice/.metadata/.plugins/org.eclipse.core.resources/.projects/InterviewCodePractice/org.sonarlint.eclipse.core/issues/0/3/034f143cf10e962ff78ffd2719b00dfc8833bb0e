@@ -1,0 +1,15 @@
+
+š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ó¹½¯HŞRMAJORZ
+CODE_SMELL
+ˆsquid:S1488+"[Immediately return this expression instead of assigning it to the temporary variable "str".(‰™ÂñHßRMINORZ
+CODE_SMELL
+_squid:S4973"9Use the "equals" method if value comparison was intended.(íâóHàRMAJORZBUG
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èÿ…şÿÿÿÿHáRMINORZ
+CODE_SMELL
+Œsquid:S1149&"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰HâRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿHãRMAJORZ
+CODE_SMELL
+‹squid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ï·õ‹ûÿÿÿÿHäRMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+ƒsquid:UselessImportCheck"DRemove this unused import 'com.project.placementagency.model.Admin'.(Ò©æôıÿÿÿÿH¦RMINORZ
+CODE_SMELL
+squid:UselessImportCheck
+"GRemove this unused import 'com.project.placementagency.model.Employer'.(—•—§H§RMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck"JRemove this unused import 'com.project.placementagency.model.AdminStatus'.(‰´§êüÿÿÿÿH¨RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï¤¼éşÿÿÿÿH©RMAJORZ
+CODE_SMELL

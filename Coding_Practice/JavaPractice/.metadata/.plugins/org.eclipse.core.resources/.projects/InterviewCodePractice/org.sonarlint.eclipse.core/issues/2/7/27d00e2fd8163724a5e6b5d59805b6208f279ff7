@@ -1,0 +1,27 @@
+
+jsquid:S1197"8Move the array designator from the variable to the type.(Ó¥ÉÓûÿÿÿÿHËRMINORZ
+CODE_SMELL
+jsquid:S1197
+"8Move the array designator from the variable to the type.(°åöùÿÿÿÿHÄRMINORZ
+CODE_SMELL
+esquid:S1197"8Move the array designator from the variable to the type.(›‹óÉHÇRMINORZ
+CODE_SMELL
+nsquid:UnusedPrivateMethod".Remove this unused private "approach2" method.(Ó¥ÉÓûÿÿÿÿHÍRMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şõú˜şÿÿÿÿHÆRMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(ßÇ¹ÛùÿÿÿÿHÊRMINORZ
+CODE_SMELL
+nsquid:UnusedPrivateMethod".Remove this unused private "approach1" method.(ßÇ¹ÛùÿÿÿÿHÌRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHÃRMINORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(Í¯ÌYHÈRMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÌºèYHÅRMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(Àê††üÿÿÿÿHÉRMINORZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+dsquid:S25897"7Remove this expression which always evaluates to "true"(Ó®ÖHåRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHæRMINORZ
+CODE_SMELL
+jsquid:S1197
+"8Move the array designator from the variable to the type.(ºÊé½øÿÿÿÿHçRMINORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤Û•HèRMAJORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(»œ­ÍüÿÿÿÿHéRMINORZ
+CODE_SMELL
+j
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ñòñ†ÿÿÿÿÿHêRMAJORZ
+CODE_SMELL
+Vsquid:S11257")Remove the literal "false" boolean value.(Ó®ÖHëRMINORZ
+CODE_SMELL
+j
+squid:S1069"9Replace this use of System.out or System.err by a logger.(Ôóÿ¥üÿÿÿÿHìRMAJORZ
+CODE_SMELL

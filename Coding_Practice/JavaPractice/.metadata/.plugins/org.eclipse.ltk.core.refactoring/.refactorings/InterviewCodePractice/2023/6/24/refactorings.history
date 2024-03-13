@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.codePractice.defaultt.Car&apos; to &apos;CA_One&apos;&#x0D;&#x0A;- Original project: &apos;InterviewCodePractice&apos;&#x0D;&#x0A;- Original element: &apos;com.codePractice.defaultt.Car&apos;&#x0D;&#x0A;- Renamed element: &apos;com.codePractice.defaultt.CA_One&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Car&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.codePractice.defaultt{Car.java[Car" matchStrategy="1" name="CA_One" qualified="false" references="true" similarDeclarations="false" stamp="1686855603465" textual="false" version="1.0"/>
+</session>

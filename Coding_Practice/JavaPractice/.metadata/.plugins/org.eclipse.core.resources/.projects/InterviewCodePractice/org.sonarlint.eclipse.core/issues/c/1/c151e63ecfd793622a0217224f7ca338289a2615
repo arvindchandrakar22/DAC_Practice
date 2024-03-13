@@ -1,0 +1,23 @@
+
+Vsquid:S1125.")Remove the literal "false" boolean value.(žÓ®ÖHäRMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(äÓÞ÷ùÿÿÿÿHçRMAJORZ
+CODE_SMELL
+e
+squid:S1060"9Replace this use of System.out or System.err by a logger.(›¬ÍHåRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®‚ÔHæRMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒ¦ÿÿÿÿÿHßRMINORZ
+CODE_SMELL
+d
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ó¡¼)HãRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—¢ëçHèRMAJORZ
+CODE_SMELL
+[squid:S1125(")Remove the literal "false" boolean value.(£ûò²úÿÿÿÿHâRMINORZ
+CODE_SMELL
+‹squid:S2293""YReplace the type specification in this constructor call with the diamond operator ("<>").(„õÄØþÿÿÿÿHáRMINORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(ß«¥×ûÿÿÿÿHàRMINORZ
+CODE_SMELL

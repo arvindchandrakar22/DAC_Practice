@@ -1,0 +1,11 @@
+
+isquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒHlRMINORZ
+CODE_SMELL
+psquid:UselessImportCheck"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâHmRMINORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(ªÀ±›ûÿÿÿÿHnRMAJORZ
+CODE_SMELL
+|squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(©ÓþúýÿÿÿÿHoRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(£çˆ“HpRMAJORZ
+CODE_SMELL
