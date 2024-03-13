@@ -8,7 +8,7 @@ public class InstagramAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(InstagramAppApplication.class, args);
-		System.out.println("HEY HELLO ! INSTAGRAM-CLONE APP STARTED !!");
+		System.out.println("INSTAGRAM-CLONE APP STARTED !!");
 	}
 
 }
