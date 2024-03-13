@@ -19,6 +19,8 @@ public class SortedIntegerArray {
 		System.arraycopy(arr, insertIndex, newArray, insertIndex+1, arr.length-insertIndex);
 		newArray[insertIndex] = newElement;
 		System.out.println(Arrays.toString(newArray));
+		System.out.println("HELLO");
+
 		
 	}
 }
