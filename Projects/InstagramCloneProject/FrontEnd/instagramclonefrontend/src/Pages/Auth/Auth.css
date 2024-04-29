@@ -1,0 +1,21 @@
+.mobileWallpaper{
+    background-image: url("https://cdn.pixabay.com/photo/2017/01/24/03/54/plants-2004492_1280.jpg");
+    animation: changeBg 8s infinite;
+}
+
+@keyframes changeBg {
+
+    0%{
+        background-image: url("https://cdn.pixabay.com/photo/2023/05/23/18/12/hummingbird-8013214_1280.jpg");
+    }
+    25%{
+        background-image: url("https://cdn.pixabay.com/photo/2023/06/11/19/09/fruit-8056663_1280.jpg");
+    }
+    50%{
+        background-image: url("https://cdn.pixabay.com/photo/2022/12/02/17/02/sunrise-7631311_1280.jpg");
+    }
+    75%{
+        background-image: url("https://cdn.pixabay.com/photo/2023/07/10/18/59/bird-8118926_1280.jpg");
+    }
+    
+}
