@@ -12,19 +12,22 @@ import org.springframework.security.web.authentication.www.BasicAuthenticationFi
 
 @Configuration
 public class AppConfig {
-    
-    @Bean
-    public SecurityFilterChain securityConfiguration(HttpSecurity http) throws Exception{
-        http.sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
-        .and()
-        .authorizeHttpRequests().requestMatchers(HttpMethod.POST, "/signup").permitAll()
-        .anyRequest().authenticated()
-        .and()
-        .addFilterAfter(new JwtTokenGeneratorFilter(), BasicAuthenticationFilter.class)
-        .addFilterBefore(new JwtTokenValidationFilter(), BasicAuthenticationFilter.class)
-        .csrf().disable()
-        .formLogin().and().httpBasic();
 
+    @Bean
+    public SecurityFilterChain securityConfiguration(HttpSecurity http) throws Exception {
+        http
+            .cors().and()
+            .sessionManagement().sessionCreationPolicy(SessionCreationPolicy.STATELESS)
+            .and()
+            .authorizeHttpRequests()
+                .requestMatchers(HttpMethod.POST, "/signup").permitAll()
+                .anyRequest().authenticated()
+            .and()
+            .addFilterAfter(new JwtTokenGeneratorFilter(), BasicAuthenticationFilter.class)
+            .addFilterBefore(new JwtTokenValidationFilter(), BasicAuthenticationFilter.class)
+            .csrf().disable()
+            .formLogin().and().httpBasic();
+        
         return http.build();
     }
 
